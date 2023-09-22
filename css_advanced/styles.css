@@ -59,7 +59,7 @@ h1 {
 }
 
 .block-two h2 span {
-  color: hotpink; /* appears different color in design file */
+  color: #C271FF; /* from figma */
 }
 
 .block-two {
