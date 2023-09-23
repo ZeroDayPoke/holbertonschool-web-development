@@ -11,11 +11,11 @@ Welcome to the Smileschool Advanced CSS project repository! This project is a co
 - [Author](#author)
 - [Acknowledgements](#acknowledgements)
 
-## 📖 Overview
+## Overview
 
 The Smileschool Advanced CSS project focuses on styling the previously constructed HTML structure. The styles are inspired by a design file from Figma, ensuring the web page looks as close to the design as possible.
 
-## 📂 File Architecture
+## File Architecture
 
 The project has the following File Architecture:
 
@@ -34,7 +34,7 @@ The project has the following File Architecture:
 - `images/`: Directory containing image exports from the Figma design file.
 
 
-## 🏗 Structure
+## Structure
 
 The CSS is structured to style the following sections:
 
@@ -45,11 +45,11 @@ The CSS is structured to style the following sections:
 - **FAQ**: Styling for the frequently asked questions.
 - **Footer**: Styling for the footer section with social media links.
 
-## 🌐 Live Demo
+## Live Demo
 
 You can view the live demo of the project [here](https://zerodaypoke.github.io/holbertonschool-web-development/).
 
-## 👤 Author
+## Author
 
 - **Chris Stamper** - [zerodaypoke](https://github.com/zerodaypoke)
 
